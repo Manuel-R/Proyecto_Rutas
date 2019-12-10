@@ -11,6 +11,7 @@ declare var google;
 })
 export class HomePage implements OnInit {
 
+  
   constructor(
     private geolocation: Geolocation,
     private loadCtrl: LoadingController,
