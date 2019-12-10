@@ -1,5 +1,7 @@
 {
   "name": "RutBer",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
